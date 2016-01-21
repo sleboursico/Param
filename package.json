@@ -1,0 +1,26 @@
+{
+  "name": "metiparam",
+  "version": "0.1.0",
+  "description": "Paramétrage pour suite Meti Retail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Meti"
+  ],
+  "author": "Sébastien Le Boursico",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleboursico/Param.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sleboursico/Param/issues"
+  },
+  "homepage": "https://github.com/sleboursico/Param#readme"
+}
